@@ -6,17 +6,17 @@ This GitHub repository provides the supplementary data referenced in the publica
 
 All files are publicly available and can be used for further research or other applications. However, if you utilize these resources in your work, we kindly request that you cite our original publication.
 
-**Pearl Sac Gene Expression Profiles Associated With Pearl Attributes in the Silver-Lip Pearl Oyster,** ***Pinctada maxima*** \r\nCarmel McDougall,*Carmel McDougall1,2*Felipe Aguilera&#x;Felipe Aguilera1†Ali ShokoohmandAli Shokoohmand2Patrick MoasePatrick Moase3Bernard M. Degnan*Bernard M. Degnan1* Bastian Fromm, Juan Pablo Tosar, Felipe Aguilera, Marc R. Friedländer, Lutz Bachmann, Andreas Hejnol. *non-coding RNA* **5**:19 (2019). https://doi.org/10.3390/ncrna5010019
+**Pearl Sac Gene Expression Profiles Associated With Pearl Attributes in the Silver-Lip Pearl Oyster,** ***Pinctada maxima.*** Carmel McDougall, Felipe Aguilera, Ali Shokoohmand, Patrick Moase, Bernard M. Degnan. *Frontiers in Genetics* **11**:597459 (2021). https://doi.org/10.3389/fgene.2020.597459
 
 **Abstract**
 
-Gastrotrichs—’hairy bellies’—are microscopic free-living animals inhabiting marine and freshwater habitats. Based on morphological and early molecular analyses, gastrotrichs were placed close to nematodes, but recent phylogenomic analyses have suggested their close relationship to flatworms (Platyhelminthes) within Spiralia. Small non-coding RNA data on e.g., microRNAs (miRNAs) and PIWI-interacting RNAs (piRNA) may help to resolve this long-standing question. MiRNAs are short post-transcriptional gene regulators that together with piRNAs play key roles in development. In a ‘multi-omics’ approach we here used small-RNA sequencing, available transcriptome and genomic data to unravel the miRNA- and piRNA complements along with the RNAi (RNA interference) protein machinery of Lepidodermella squamata (Gastrotricha, Chaetonotida). We identified 52 miRNA genes representing 35 highly conserved miRNA families specific to Eumetazoa, Bilateria, Protostomia, and Spiralia, respectively, with overall high similarities to platyhelminth miRNA complements. In addition, we found four large piRNA clusters that also resemble flatworm piRNAs but not those earlier described for nematodes. Congruently, transcriptomic annotation revealed that the Lepidodermella protein machinery is highly similar to flatworms, too. Taken together, miRNA, piRNA, and protein data support a close relationship of gastrotrichs and flatworms.
+Pearls are highly prized biomineralized gemstones produced by molluscs. The appearance and mineralogy of cultured pearls can vary markedly, greatly affecting their commercial value. To begin to understand the role of pearl sacs—organs that form in host oysters from explanted mantle tissues that surround and synthesize pearls—we undertook transcriptomic analyses to identify genes that are differentially expressed in sacs producing pearls with different surface and structural characteristics. Our results indicate that gene expression profiles correlate with different pearl defects, suggesting that gene regulation in the pearl sac contributes to pearl appearance and quality. For instance, pearl sacs that produced pearls with surface non-lustrous calcification significantly down-regulate genes associated with cilia and microtubule function compared to pearl sacs giving rise to lustrous pearls. These results suggest that gene expression profiling can advance our understanding of processes that control biomineralization, which may be of direct value to the pearl industry, particularly in relation to defects that result in low value pearls.
 
 ## Author contact
 
-- [Bastian Fromm](mailto:Bastian.Fromm@scilifelab.se) (first and corresponding author)
-- [Felipe Aguilera](mailto:felipe.aguilera@uib.no) (senior author - PostDoc)
-- [Andreas Hejnol](mailto:andreas.hejnol@uib.no) (senior author - Group Leader)
+- [Carmel McDougall](mailto:c.mcdougall@uq.edu.au) (senior author - PostDoc)
+- [Felipe Aguilera](mailto:f.aguilera@uq.edu.au) (first author - PhD student)
+- [Bernie Degnan](b.degnan@uq.edu.au) (corresponding author)
 
 ## How to download data files
 
