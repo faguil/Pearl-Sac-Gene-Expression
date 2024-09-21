@@ -23,3 +23,17 @@ Pearls are highly prized biomineralized gemstones produced by molluscs. The appe
 The files in this repository are ready for use. Simply click on the file, and you will be directed to the GitHub webpage to save it to your device.
 
 ## Index of data file contents
+
+[01-Photographs-pearls.pdf](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/01-Photographs-pearls.pdf) contains the photographs of pearls extracted from the pearl sacs used in this study.
+
+[02-Phylogenetic-tree-FoxJ1.pdf](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/02-Phylogenetic-tree-FoxJ1.pdf) contains the Maximum Likelihood phylogenetic analysis of the *Pinctada maxima* FoxJ1 protein.
+
+[03-Phylogenetic-tree-ETS4_PDEF.pdf](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/03-Phylogenetic-tree-ETS4_PDEF.pdf) contains the Maximum Likelihood phylogenetic analysis of the *Pinctada maxima* ETS4/PDEF protein.
+
+[04-Supplementary-Tables.xlsx](https://github.com/faguil/Pearl-Sac-Gene-Expression/blob/main/04-Supplementary-Tables.xlsx) contains supplementary tables used in this study.
+
+- **Table S1.** Transcripts differentially expressed between sacs producing high vs low lustre pearls. 
+- **Table S2.** Transcripts differentially expressed between sacs producing pearls with 'calcification' and those without.
+- **Table S3.** Gene Ontology 'Biological Process' enrichments within calcification-associated differentially expressed transcripts.
+- **Table S4.** Transcripts differentially expressed between sacs producing pearls with 'underskin' and those without.
+- **Table S5.** Transcripts differentially expressed between sacs producing pearls with different weights.
